@@ -1,0 +1,7 @@
+target_region: "South India"
+weights:
+  price_per_unit: 0.35
+  quality: 0.30        # combines otd_pct (↑) and ppm_defects (↓)
+  lead_time_days: 0.25
+  geo_proximity: 0.10
+tie_breaker: "lower lead_time_days"

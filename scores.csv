@@ -1,0 +1,9 @@
+supplier_id,supplier_name,category,price_per_unit,currency,lead_time_days,otd_pct,ppm_defects,plant_region,notes,score_price,score_quality,score_leadtime,score_geo,TotalScore,rank
+S8,Orion Components,die-cast,112,INR,31,96,360,South India,good AP terms,0.9,0.7803030303030303,0.47368421052631576,1.0,0.767511961722488,1
+S1,Alpha Castings,die-cast,118,INR,28,96,350,South India,ISO9001; good service record,0.6,0.803030303030303,0.631578947368421,1.0,0.7088038277511961,2
+S3,Gamma Foundry,die-cast,130,INR,21,97,300,South India,fast lead time,0.0,1.0,1.0,1.0,0.65,3
+S2,Beta Metals,die-cast,110,INR,35,93,420,West India,price aggressive; check capacity,1.0,0.3939393939393939,0.2631578947368421,0.6,0.5939712918660287,4
+S6,ForgeMax Ltd,die-cast,122,INR,33,94,380,South India,expanded line 2024,0.4,0.5681818181818181,0.3684210526315789,1.0,0.5025598086124402,5
+S5,Epsilon Parts,die-cast,115,INR,40,95,410,East India,OTD stable last year,0.75,0.5833333333333333,0.0,0.6,0.4974999999999999,6
+S7,Nova Alloys,die-cast,119,INR,27,91,520,West India,variable OTD in 2023,0.55,0.0,0.6842105263157895,0.6,0.42355263157894735,7
+S4,Delta Tools,die-cast,125,INR,26,92,500,North India,ESG policy unknown,0.25,0.12878787878787878,0.7368421052631579,0.2,0.3303468899521531,8

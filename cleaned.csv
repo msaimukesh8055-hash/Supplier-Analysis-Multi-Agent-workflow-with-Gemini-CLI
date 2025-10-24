@@ -1,0 +1,9 @@
+supplier_id,supplier_name,category,price_per_unit,currency,lead_time_days,otd_pct,ppm_defects,plant_region,notes
+S1,Alpha Castings,die-cast,118,INR,28,96,350,South India,ISO9001; good service record
+S2,Beta Metals,die-cast,110,INR,35,93,420,West India,price aggressive; check capacity
+S3,Gamma Foundry,die-cast,130,INR,21,97,300,South India,fast lead time
+S4,Delta Tools,die-cast,125,INR,26,92,500,North India,ESG policy unknown
+S5,Epsilon Parts,die-cast,115,INR,40,95,410,East India,OTD stable last year
+S6,ForgeMax Ltd,die-cast,122,INR,33,94,380,South India,expanded line 2024
+S7,Nova Alloys,die-cast,119,INR,27,91,520,West India,variable OTD in 2023
+S8,Orion Components,die-cast,112,INR,31,96,360,South India,good AP terms
